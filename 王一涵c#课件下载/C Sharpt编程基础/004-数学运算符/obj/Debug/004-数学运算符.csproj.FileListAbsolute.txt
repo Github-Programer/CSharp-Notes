@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\bin\Debug\004-数学运算符.exe.config
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\bin\Debug\004-数学运算符.exe
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\bin\Debug\004-数学运算符.pdb
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\obj\Debug\004-数学运算符.csprojResolveAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\obj\Debug\004-数学运算符.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\obj\Debug\004-数学运算符.exe
+D:\workspace\VS\C Sharpt编程基础\004-数学运算符\obj\Debug\004-数学运算符.pdb

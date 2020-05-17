@@ -1,0 +1,6 @@
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\bin\Debug\打印HalloWorld-程序的起点001~.exe.config
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\bin\Debug\打印HalloWorld-程序的起点001~.exe
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\bin\Debug\打印HalloWorld-程序的起点001~.pdb
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\obj\Debug\打印HalloWorld-程序的起点001~.csprojAssemblyReference.cache
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\obj\Debug\打印HalloWorld-程序的起点001~.exe
+E:\王一涵programThomas\王一涵CSharpThomas\打印HalloWorld-程序的起点001~\打印HalloWorld-程序的起点001~\obj\Debug\打印HalloWorld-程序的起点001~.pdb

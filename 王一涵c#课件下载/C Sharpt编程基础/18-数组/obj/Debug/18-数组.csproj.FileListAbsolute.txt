@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\18-数组\bin\Debug\18-数组.exe.config
+D:\workspace\VS\C Sharpt编程基础\18-数组\bin\Debug\18-数组.exe
+D:\workspace\VS\C Sharpt编程基础\18-数组\bin\Debug\18-数组.pdb
+D:\workspace\VS\C Sharpt编程基础\18-数组\obj\Debug\18-数组.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\18-数组\obj\Debug\18-数组.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\18-数组\obj\Debug\18-数组.exe
+D:\workspace\VS\C Sharpt编程基础\18-数组\obj\Debug\18-数组.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\bin\Debug\005-运算符练习.exe.config
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\bin\Debug\005-运算符练习.exe
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\bin\Debug\005-运算符练习.pdb
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\obj\Debug\005-运算符练习.csprojResolveAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\obj\Debug\005-运算符练习.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\obj\Debug\005-运算符练习.exe
+D:\workspace\VS\C Sharpt编程基础\005-运算符练习\obj\Debug\005-运算符练习.pdb

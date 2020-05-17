@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\bin\Debug\16-枚举类型.exe.config
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\bin\Debug\16-枚举类型.exe
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\bin\Debug\16-枚举类型.pdb
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\obj\Debug\16-枚举类型.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\obj\Debug\16-枚举类型.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\obj\Debug\16-枚举类型.exe
+D:\workspace\VS\C Sharpt编程基础\16-枚举类型\obj\Debug\16-枚举类型.pdb

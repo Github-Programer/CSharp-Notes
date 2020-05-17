@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\bin\Debug\19-数组练习题.exe.config
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\bin\Debug\19-数组练习题.exe
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\bin\Debug\19-数组练习题.pdb
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\obj\Debug\19-数组练习题.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\obj\Debug\19-数组练习题.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\obj\Debug\19-数组练习题.exe
+D:\workspace\VS\C Sharpt编程基础\19-数组练习题\obj\Debug\19-数组练习题.pdb

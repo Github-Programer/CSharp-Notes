@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\bin\Debug\28-字符串处理.exe.config
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\bin\Debug\28-字符串处理.exe
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\bin\Debug\28-字符串处理.pdb
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\obj\Debug\28-字符串处理.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\obj\Debug\28-字符串处理.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\obj\Debug\28-字符串处理.exe
+D:\workspace\VS\C Sharpt编程基础\28-字符串处理\obj\Debug\28-字符串处理.pdb

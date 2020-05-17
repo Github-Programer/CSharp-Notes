@@ -1,0 +1,6 @@
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\bin\Debug\26-结构体的方法.exe.config
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\bin\Debug\26-结构体的方法.exe
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\bin\Debug\26-结构体的方法.pdb
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\obj\Debug\26-结构体的方法.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\obj\Debug\26-结构体的方法.exe
+D:\workspace\VS\C Sharpt编程基础\26-结构体的方法\obj\Debug\26-结构体的方法.pdb

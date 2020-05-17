@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\002变量\bin\Debug\002变量.exe.config
+D:\workspace\VS\C Sharpt编程基础\002变量\bin\Debug\002变量.exe
+D:\workspace\VS\C Sharpt编程基础\002变量\bin\Debug\002变量.pdb
+D:\workspace\VS\C Sharpt编程基础\002变量\obj\Debug\002变量.csprojResolveAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\002变量\obj\Debug\002变量.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\002变量\obj\Debug\002变量.exe
+D:\workspace\VS\C Sharpt编程基础\002变量\obj\Debug\002变量.pdb

@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\ref 和out\bin\Debug\ref 和out.exe.config
+D:\workspace\VS\C Sharpt编程基础\ref 和out\bin\Debug\ref 和out.exe
+D:\workspace\VS\C Sharpt编程基础\ref 和out\bin\Debug\ref 和out.pdb
+D:\workspace\VS\C Sharpt编程基础\ref 和out\obj\Debug\23-ref 和out.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\ref 和out\obj\Debug\23-ref 和out.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\ref 和out\obj\Debug\ref 和out.exe
+D:\workspace\VS\C Sharpt编程基础\ref 和out\obj\Debug\ref 和out.pdb

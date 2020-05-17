@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\bin\Debug\001我的第一个项目.exe.config
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\bin\Debug\001我的第一个项目.exe
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\bin\Debug\001我的第一个项目.pdb
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\obj\Debug\001我的第一个项目.csprojResolveAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\obj\Debug\001我的第一个项目.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\obj\Debug\001我的第一个项目.exe
+D:\workspace\VS\C Sharpt编程基础\001我的第一个项目\obj\Debug\001我的第一个项目.pdb

@@ -1,0 +1,7 @@
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\bin\Debug\MainTool-002.exe.config
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\bin\Debug\MainTool-002.exe
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\bin\Debug\MainTool-002.pdb
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\obj\Debug\MainTool-002.csprojAssemblyReference.cache
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\obj\Debug\MainTool-002.csproj.CoreCompileInputs.cache
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\obj\Debug\MainTool-002.exe
+E:\王一涵programThomas\王一涵CSharpThomas\Main方法-关键字-002~\MainTool-002\obj\Debug\MainTool-002.pdb

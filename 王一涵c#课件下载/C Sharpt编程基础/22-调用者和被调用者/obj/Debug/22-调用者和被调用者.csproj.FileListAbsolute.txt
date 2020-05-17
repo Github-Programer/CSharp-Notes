@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\bin\Debug\22-调用者和被调用者.exe.config
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\bin\Debug\22-调用者和被调用者.exe
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\bin\Debug\22-调用者和被调用者.pdb
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\obj\Debug\22-调用者和被调用者.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\obj\Debug\22-调用者和被调用者.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\obj\Debug\22-调用者和被调用者.exe
+D:\workspace\VS\C Sharpt编程基础\22-调用者和被调用者\obj\Debug\22-调用者和被调用者.pdb

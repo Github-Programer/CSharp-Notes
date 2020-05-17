@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\8-循环\bin\Debug\8-循环.exe.config
+D:\workspace\VS\C Sharpt编程基础\8-循环\bin\Debug\8-循环.exe
+D:\workspace\VS\C Sharpt编程基础\8-循环\bin\Debug\8-循环.pdb
+D:\workspace\VS\C Sharpt编程基础\8-循环\obj\Debug\8-循环.csprojResolveAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\8-循环\obj\Debug\8-循环.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\8-循环\obj\Debug\8-循环.exe
+D:\workspace\VS\C Sharpt编程基础\8-循环\obj\Debug\8-循环.pdb

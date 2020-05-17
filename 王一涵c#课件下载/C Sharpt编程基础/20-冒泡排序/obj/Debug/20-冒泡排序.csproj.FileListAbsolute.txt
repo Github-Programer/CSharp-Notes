@@ -1,0 +1,7 @@
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\bin\Debug\20-冒泡排序.exe.config
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\bin\Debug\20-冒泡排序.exe
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\bin\Debug\20-冒泡排序.pdb
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\obj\Debug\20-冒泡排序.csprojAssemblyReference.cache
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\obj\Debug\20-冒泡排序.csproj.CoreCompileInputs.cache
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\obj\Debug\20-冒泡排序.exe
+D:\workspace\VS\C Sharpt编程基础\20-冒泡排序\obj\Debug\20-冒泡排序.pdb
